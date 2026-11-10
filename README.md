@@ -1,0 +1,1 @@
+Subir index.html a la raiz de un repositorio GitHub Pages. La red de cocitación muestra los autores y años de las obras citadas. No se incluyen autores del manuscrito ni DOI de registros individuales.
